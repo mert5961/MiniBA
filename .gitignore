@@ -1,0 +1,5 @@
+build/
+data/*.txt
+results/*.log
+__pycache__/
+.DS_Store
